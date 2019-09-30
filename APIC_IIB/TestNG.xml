@@ -1,0 +1,9 @@
+<suite name="softwaretestingmaterial">
+ <test name="testngTest">
+ <parameter name="browsername" value="firefox"/>
+ 
+ <classes>
+ <class name="runnerPackage.RunTest" />
+ </classes>
+ </test>
+</suite>
